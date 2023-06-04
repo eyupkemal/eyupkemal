@@ -6,4 +6,4 @@ I'am Kemal from Turkey.I do content on C Codes.I like to spend hours in front of
 - 🌱 I’m currently learning c , java, C#
 
 
- <img width="48%" img height = "50%" src="https://github-readme-stats.vercel.app/api?username=eyupkemal&show_icons=true&theme=tokyonight" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eyupkemal&theme=tokyonight" />
+ <img width="48%" img src="https://github-readme-stats.vercel.app/api?username=eyupkemal&show_icons=true&theme=tokyonight" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=eyupkemal&theme=tokyonight" />
