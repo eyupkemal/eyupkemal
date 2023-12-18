@@ -3,7 +3,7 @@
 I'am Kemal from Turkey. I do content on C Codes. I like to spend hours in front of the computer. I have a special interest in foreign languages.
 
 - 🔭 I’m currently studying in 42 Ecole  
-- 🌱 I’m currently learning C, C++, C#
+- 🌱 I’m currently learning C, C++, C# javascript
 
 ## My 42 stats and projects
 
